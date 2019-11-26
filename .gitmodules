@@ -1,0 +1,6 @@
+[submodule "modules/remote-public-module"]
+	path = modules/remote-public-module
+	url = https://github.com/jhomola79/submodule-public.git
+[submodule "modules/remote-private-module"]
+	path = modules/remote-private-module
+	url = https://github.com/jhomola79/submodule-private.git
