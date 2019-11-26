@@ -3,4 +3,4 @@
 	url = https://github.com/jhomola79/submodule-public.git
 [submodule "modules/remote-private-module"]
 	path = modules/remote-private-module
-	url = https://github.com/jhomola79/submodule-private.git
+	url = https://readonlyuser:readonlyuserpwd@github.com/jhomola79/submodule-private.git
